@@ -1,1 +1,1 @@
-# CloudPilot-AI
+# CloudSense-AI
